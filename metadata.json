@@ -1,0 +1,8 @@
+{
+  "name": "ITI Admission Voice Counselor",
+  "description": "Distraction-free real-time AI voice admission counselor for ITI aspirants, providing clear voice guidance on eligibility, trades, and admissions.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
